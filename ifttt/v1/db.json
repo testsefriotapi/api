@@ -1,0 +1,33 @@
+{ "devices": [ 
+		{
+			"id": 1,
+            "mac": "00:A0:C9:14:C8:29",	        
+	        "type": "activator"
+        },
+		{
+			"id": 2,
+            "mac": "00:B1:C8:14:C8:17",	        
+	        "type": "stateMonitor"
+        },
+		{
+			"id": 3,
+            "mac": "00:A5:D9:11:C2:12",	        
+	        "type": "activator"
+        },
+		{
+			"id": 4,
+            "mac": "00:R3:E2:10:B8:09",	        
+	        "type": "stateMonitor"
+        },
+		{
+			"id": 5,
+            "mac": "00:A2:D3:21:C2:15",	        
+	        "type": "activator"
+        },
+		{
+			"id": 6,
+            "mac": "00:F2:B4:12:C2:16",	        
+	        "type": "stateMonitor"
+		}
+  ]}
+  
